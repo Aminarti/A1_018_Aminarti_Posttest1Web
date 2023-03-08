@@ -12,4 +12,4 @@ Dalam website ini terdapat 4 halaman yaitu : Home, About Us, Reservation dan Con
 1. Halaman Home merupakan tampilan awal dari website tersebut
 2. About us , halaman ini menampilkan tentang penyewaan ballroom Amiee Wedding & Concervation Hall serta menyajikan layanan-layanan dan penyewaan yang tersedia berupa foto dan disertai harga.
 3. Reservation berisikan form untuk melakukan reservasi tempat berisikan data diri, keperluan dan keterangan dari penyewa.
-Terakhir Contac us berisikan no hp,email dan alamat dari Amiee Wedding & Concervation Hall.
+4. Terakhir Contac us berisikan no hp,email dan alamat dari Amiee Wedding & Concervation Hall.
